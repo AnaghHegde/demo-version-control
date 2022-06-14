@@ -63,9 +63,21 @@
     "Home_updateOrderDetails": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
+    },
+    "Page1_demoQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     }
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {},
+  "publishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "Table2"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "Table2"
+    ]
+  },
   "fileFormatVersion": 2
 }
